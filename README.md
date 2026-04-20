@@ -9,11 +9,4 @@ Tester les services avec Postman
 Consommer l’API dans une application Android avec Volley
 Parser les données JSON avec Gson
 
-🏗️ Architecture du projet
-Android App
-   ↓ (HTTP - Volley)
-Web Service PHP
-   ↓
-Base de données MySQL
 
-'
